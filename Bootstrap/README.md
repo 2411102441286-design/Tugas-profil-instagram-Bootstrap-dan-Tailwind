@@ -17,6 +17,8 @@ Folder berisi gambar-gambar dan file *index.html* yang sudah berisi CSS internal
  ┣ 📜index.html
  ┗ 📜profilepic.jpeg
 
+
+
  ## Build/Run
  - Karena file HTML memiliki CSS internal & Menggunakan CDN Bootstrap maka tidak ada proses build.
  - Run dapat dilakukan dengan klik 2x pada *index.html* atau cara sederhana lainnya.
